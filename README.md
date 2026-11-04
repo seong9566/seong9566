@@ -2,7 +2,7 @@
 
 ### FrontEnd
 
-![Flutter](https://img.shields.io/badge/Flutter-37382A?style=for-the-badge&logo=flutter&logoColor=54C5F8) ![SwiftUI](https://img.shields.io/badge/SwiftUI-37382A?style=for-the-badge&logo=swift&logoColor=F05138) ![Vue.js](https://img.shields.io/badge/Vue.js-37382A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-37382A?style=for-the-badge&logo=flutter&logoColor=54C5F8) ![SwiftUI](https://img.shields.io/badge/SwiftUI-37382A?style=for-the-badge&logo=swift&logoColor=F05138) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-37382A?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4) ![Vue.js](https://img.shields.io/badge/Vue.js-37382A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ### BackEnd/Cloud
 
