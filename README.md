@@ -1,21 +1,25 @@
 # 이현성
 
-Flutter로 iOS·Android 앱을 만드는 개발자입니다. 2023년 11월부터 실무를 해 왔고, 플러그인으로 안 풀리는 문제는 Kotlin·Swift까지 내려가 해결합니다. 요즘은 AI 에이전트와 함께 일하는 개발 환경을 직접 만드는 데 관심이 많습니다.
+[![Gmail](https://img.shields.io/badge/Gmail-37382A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dlgustjd9566@gmail.com)
 
-## 주로 하는 일
+## Skill
 
-- Flutter 앱 기획부터 스토어 배포까지
-- BLE·NFC·QR 같은 네이티브 기기 연동
-- .NET Web API 서버 개발
-- Claude Code·Codex 기반 개발 워크플로 구축
+### FrontEnd
 
-## 기술
+![Flutter](https://img.shields.io/badge/Flutter-37382A?style=for-the-badge&logo=flutter&logoColor=54C5F8) ![SwiftUI](https://img.shields.io/badge/SwiftUI-37382A?style=for-the-badge&logo=swift&logoColor=F05138) ![Vue.js](https://img.shields.io/badge/Vue.js-37382A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-**Mobile** Flutter, Dart, Kotlin, Swift  
-**Backend** .NET, MySQL, Supabase, Firebase  
-**Web** Vue, TypeScript  
-**AI Tooling** Claude Code, Codex
+### BackEnd/Cloud
 
-## 연락
+![.NET](https://img.shields.io/badge/.NET-37382A?style=for-the-badge&logo=dotnet&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-37382A?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Supabase](https://img.shields.io/badge/Supabase-37382A?style=for-the-badge&logo=supabase&logoColor=3FCF8E) ![Firebase](https://img.shields.io/badge/Firebase-37382A?style=for-the-badge&logo=firebase&logoColor=DD2C00)
 
-[dlgustjd9566@gmail.com](mailto:dlgustjd9566@gmail.com)
+### Programming Language
+
+![Dart](https://img.shields.io/badge/Dart-37382A?style=for-the-badge&logo=dart&logoColor=0175C2) ![Kotlin](https://img.shields.io/badge/Kotlin-37382A?style=for-the-badge&logo=kotlin&logoColor=7F52FF) ![Swift](https://img.shields.io/badge/Swift-37382A?style=for-the-badge&logo=swift&logoColor=F05138) ![C#](https://img.shields.io/badge/C%23-37382A?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-37382A?style=for-the-badge&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-37382A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Tools
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-37382A?style=for-the-badge&logo=claude&logoColor=D97757) ![Codex](https://img.shields.io/badge/Codex-37382A?style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-37382A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+### CI/CD
+
+![Fastlane](https://img.shields.io/badge/Fastlane-37382A?style=for-the-badge&logo=fastlane&logoColor=00F200) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-37382A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
