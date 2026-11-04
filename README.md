@@ -1,5 +1,3 @@
-# 이현성
-
 ## Skill
 
 ### FrontEnd
@@ -12,7 +10,7 @@
 
 ### Programming Language
 
-![Dart](https://img.shields.io/badge/Dart-37382A?style=for-the-badge&logo=dart&logoColor=40C4FF) ![Kotlin](https://img.shields.io/badge/Kotlin-37382A?style=for-the-badge&logo=kotlin&logoColor=7F52FF) ![Swift](https://img.shields.io/badge/Swift-37382A?style=for-the-badge&logo=swift&logoColor=F05138) ![C#](https://img.shields.io/badge/C%23-37382A?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-37382A?style=for-the-badge&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-37382A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-37382A?style=for-the-badge&logo=dart&logoColor=40C4FF) ![Kotlin](https://img.shields.io/badge/Kotlin-37382A?style=for-the-badge&logo=kotlin&logoColor=7F52FF) ![Swift](https://img.shields.io/badge/Swift-37382A?style=for-the-badge&logo=swift&logoColor=F05138) ![C#](https://img.shields.io/badge/C%23-37382A?style=for-the-badge)
 
 ### Tools
 
