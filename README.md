@@ -1,7 +1,5 @@
 # 이현성
 
-[![Gmail](https://img.shields.io/badge/Gmail-37382A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dlgustjd9566@gmail.com)
-
 ## Skill
 
 ### FrontEnd
